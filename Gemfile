@@ -45,3 +45,7 @@ group :development do
   gem 'spring'
 end
 
+# Added Gems:
+gem 'webpacker', github: 'rails/webpacker'
+gem "react-rails"
+gem 'bootstrap-sass', '~> 3.3.6'
